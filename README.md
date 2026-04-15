@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://pranavongole.com"><img src="https://img.shields.io/badge/Portfolio-pranavongole.com-2F6FE8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/pranavongole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pranavo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pranavongole@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-2EA44F?style=for-the-badge" alt="Open to work">
   <img src="https://img.shields.io/badge/US%20Citizen-002868?style=for-the-badge" alt="US Citizen">
@@ -83,6 +83,6 @@ I'm actively interviewing for Data Analyst and Data Engineer roles. If your team
 
 - **Website:** [pranavongole.com](https://pranavongole.com)
 - **Email:** [pranavongole@gmail.com](mailto:pranavongole@gmail.com)
-- **LinkedIn:** [linkedin.com/in/pranavongole](https://www.linkedin.com/in/pranavongole)
+- **LinkedIn:** [linkedin.com/in/pranavo](https://www.linkedin.com/in/pranavo/)
 
 <p align="center"><sub>Thanks for stopping by. If you're hiring, please reach out.</sub></p>
