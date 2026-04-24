@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Pranav Ongole</h1>
 
 <p align="center">
-  <strong>Business Intelligence &amp; Data Analyst</strong><br>
-  Turning regulated, high-volume data into compliance controls, KPI reporting, and the evidence business leaders act on.
+  <strong>Data Analyst/Analytics Engineer</strong><br>
+  Building data pipelines, compliance controls, and reporting infrastructure for regulated financial services.
 </p>
 
 <p align="center">
@@ -15,18 +15,18 @@
 
 ---
 
-### About me
+### About
 
-I have 4+ years delivering dashboards, KPI reporting, and data quality solutions in regulated financial services environments. Most recently at Capital One, I supported compliance and risk visibility across 150M+ customer accounts, translating regulatory and business requirements into analytical reporting solutions in a high-volume payments environment.
+4+ years translating business requirements into data models, automated quality controls, and analytics that Finance, Risk, and Compliance teams rely on at scale. Most recently at Capital One, monitoring compliance KPIs across 150M+ customer accounts in a high-volume payments environment.
 
-I'm a US Citizen, open to on-site, hybrid, or remote work, and currently interviewing for Data Analyst and Data Engineer roles where I can own KPIs end to end.
+Currently interviewing for Data Analyst/Analytics Engineer roles. Open to on-site, hybrid, or remote.
 
 ### What I do
 
 - **Analytics and KPI reporting.** Fact and dimension models in dbt, metric definitions built with business stakeholders, executive dashboards in Power BI and Tableau.
-- **Data quality and controls.** Daily monitoring controls, reconciliation reporting, anomaly detection, statistical bound checks, and root-cause investigation with operations teams.
-- **Pipeline and platform work.** Snowflake, Databricks (including Unity Catalog migrations), PySpark, AWS S3, and ETL / ELT orchestration.
-- **Partnering with the business.** Requirement gathering and metric translation with Finance, Risk, and Compliance stakeholders, plus the documentation and data dictionaries that make analytics stick.
+- **Data quality and controls.** Daily monitoring controls, reconciliation reporting, anomaly detection, and root-cause investigation with operations teams.
+- **Pipelines and platform.** Snowflake, Databricks (including Unity Catalog migrations), PySpark, AWS S3, ETL and ELT orchestration.
+- **Partnering with the business.** Requirement gathering and metric translation with Finance, Risk, and Compliance, plus the documentation and data dictionaries that make analytics stick.
 
 ### Core stack
 
@@ -50,23 +50,26 @@ I'm a US Citizen, open to on-site, hybrid, or remote work, and currently intervi
 |---|---|---|
 | **Capital One** | Data Analyst | Oct 2025 to Apr 2026 |
 | **Stellantis** | Data Analytics Engineer | Jun 2024 to Jan 2025 |
-| **Archaea Energy** | Data Quality Analyst | Jul 2022 to Jun 2024 |
+| **Archaea Energy** (acquired by BP) | Data Quality Analyst | Jul 2022 to Jun 2024 |
 | **Gillig** | Data Analyst, Vehicle Test Engineering | Mar 2021 to Jul 2022 |
 
 ### Selected impact
 
-- **Capital One.** Built a daily compliance control that caught purchase transactions being miscategorized as cash advances, preventing wrongful finance fees across hundreds of customer accounts.
-- **Capital One.** Developed a reconciliation reporting solution that independently validated Average Daily Balance calculations across all customer accounts, cross-checking results against an internal payments platform during a vendor transition.
-- **Capital One.** Led migration of 100+ production analytics workflows to Unity Catalog on Databricks, improving data access governance and downstream reporting reliability.
-- **Archaea Energy.** Cut manual data checks by 50% with Python-based validation logic and statistical monitoring dashboards across 45+ biogas facilities.
-- **Stellantis.** Reduced manual status reporting time by 12% through automated Power BI reporting workflows across 10+ vehicle programs.
-- **Gillig.** Automated recurring test-data analysis, saving the team 20 hours per week.
+- **Capital One.** Built a daily control on posted transaction tables that caught hundreds of customer accounts where purchase transactions were miscategorized as cash advances, preventing wrongful finance fee charges.
+- **Capital One.** Developed a reconciliation reporting solution that independently validated Average Daily Balance calculations across the full customer book, cross-checking against an internal payments platform during a vendor transition.
+- **Capital One.** Co-developed a control methodology and reusable code templates that cut pipeline compute costs and improved execution speed by 45% versus legacy templates, adopted across compliance monitoring workflows.
+- **Capital One.** Led migration of 100+ production analytics workflows to Unity Catalog on Databricks, improving data governance and downstream reporting reliability.
+- **Archaea Energy.** Cut manual data checks by 50% across 45+ biogas facilities with Python validation logic and statistical monitoring dashboards.
+- **Stellantis.** Reduced manual status reporting time by 12% through automated Power BI workflows across 10+ vehicle programs; rolled out data quality checks that cut downstream rework by 25%.
+- **Gillig.** Analyzed vehicle test data that contributed to a 9% improvement in eBus acceleration performance. Automated recurring analysis and reporting, saving the team 20 hours per week.
 
 ### Featured projects
 
 **[US Immigration Visa Dashboard](https://github.com/PranavOngole/Project-00)** &nbsp;·&nbsp; [Live demo](https://pranavongole.github.io/Project-00/)
 <br>
-Full ETL pipeline and interactive analytics dashboard built with Python, DuckDB, pandas, pdfplumber, and Plotly.js. Cleaned and unified 28 years of U.S. State Department visa data across 199 countries, standardized 96 column-name variations, resolved 34 cross-table country mismatches, and engineered custom PDF extraction logic for inconsistently formatted government tables. Ships as a static dashboard with no server or API.
+End-to-end ETL pipeline and interactive analytics dashboard. Processed 5 raw government files and cleaned 28 years of U.S. State Department visa data across 199 countries. Standardized 96 column-name variations, resolved 34 cross-table country mismatches, and engineered custom PDF extraction logic for inconsistently formatted government tables. Ships as a static dashboard, no server or API.
+<br>
+<sub>Python, DuckDB, pandas, pdfplumber, Plotly.js</sub>
 
 **[AI-Powered Stock Research Platform](https://github.com/PranavOngole/Project-01)**
 <br>
@@ -79,10 +82,10 @@ Multi-agent analysis pipeline with value-conviction scoring. An exploration of h
 
 ### Let's talk
 
-I'm actively interviewing for Data Analyst and Data Engineer roles. If your team cares about clean KPIs, trustworthy pipelines, and analytics that hold up under regulatory scrutiny, I'd love to connect.
+I'm interviewing for Data Analyst/Analytics Engineer roles. If your team cares about clean KPIs, trustworthy pipelines, and analytics that hold up under regulatory scrutiny, I'd like to hear from you.
 
 - **Website:** [pranavongole.com](https://pranavongole.com)
 - **Email:** [pranavongole@gmail.com](mailto:pranavongole@gmail.com)
 - **LinkedIn:** [linkedin.com/in/pranavo](https://www.linkedin.com/in/pranavo/)
 
-<p align="center"><sub>Thanks for stopping by. If you're hiring, please reach out.</sub></p>
+<p align="center"><sub>Thanks for stopping by.</sub></p>
