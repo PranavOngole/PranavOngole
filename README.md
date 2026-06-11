@@ -71,7 +71,7 @@ End-to-end ETL pipeline and interactive analytics dashboard. Processed 5 raw gov
 <br>
 <sub>Python, DuckDB, pandas, pdfplumber, Plotly.js</sub>
 
-**[AI-Powered Stock Research Platform](https://github.com/PranavOngole/Project-01)**
+**[AI-Powered Stock Research Platform](https://github.com/PranavOngole/Project-01)** &nbsp;·&nbsp; [View Demo](https://project-01-landing.vercel.app/)
 <br>
 Multi-agent analysis pipeline with value-conviction scoring. An exploration of how LLM agents can be composed into a structured research workflow with auditable intermediate outputs.
 
