@@ -17,7 +17,7 @@
 
 ### About
 
-4+ years translating business requirements into data models, automated quality controls, and analytics that Finance, Risk, and Compliance teams rely on at scale. Most recently at Capital One, monitoring compliance KPIs across 150M+ customer accounts in a high-volume payments environment.
+4+ years translating business requirements into data models, automated quality controls, and analytics that Finance, Risk, and Compliance teams rely on at scale. Most recently at Capital One, monitoring compliance KPIs across 110M+ customer accounts in a high-volume payments environment.
 
 Currently interviewing for Data Analyst/Analytics Engineer roles. Open to on-site, hybrid, or remote.
 
